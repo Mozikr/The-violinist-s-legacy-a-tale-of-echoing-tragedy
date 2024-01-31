@@ -23,3 +23,10 @@ A game we created in a week in a four-person team for ScreamJam 2023.
 </tr>
 </table>
 
+<h2 align="center">Ratings</h2>
+<table>
+<tr>
+    <td><p align="center"><img src="Image/Ratings.png"/></p></td>
+    <td><p align="center"><img src="Image/Ratings2.png"/></p></td>
+</tr>
+</table>
