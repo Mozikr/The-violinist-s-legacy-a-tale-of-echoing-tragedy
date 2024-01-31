@@ -1,4 +1,5 @@
 ## The violinist’s legacy: a tale of echoing tragedy
+<p align="center"><img src="Image/title.png"/></p>
 ### Made with C# and Unity Engine
 
 A game we created in a week in a four-person team for ScreamJam 2023.
