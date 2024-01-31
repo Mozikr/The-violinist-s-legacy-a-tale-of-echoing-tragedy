@@ -32,7 +32,7 @@ A game we created in a week in a four-person team for ScreamJam 2023. :ghost:
 </tr>
 </table>
 
-<h2 align="center">Download</h2>
+<h2 align="center">Download :video_game: </h2>
 <p align="center">
     Click here to download <a href="https://mozikr.itch.io/the-violonist">The violinist’s legacy: a tale of echoing tragedy</a>
 </p>
