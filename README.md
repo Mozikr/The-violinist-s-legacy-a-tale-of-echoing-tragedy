@@ -14,8 +14,7 @@ A game we created in a week in a four-person team for ScreamJam 2023.
 
 <table>
 <tr>
-    <td>Key 1</td>
-    <td>Value 1</td>
+    <td><p align="center"><img src="Image/title.png"/></p></td>
 </tr>
 <tr>
     <td>Key 2</td>
