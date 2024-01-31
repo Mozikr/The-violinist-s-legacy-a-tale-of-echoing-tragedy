@@ -23,7 +23,7 @@ A game we created in a week in a four-person team for ScreamJam 2023. :ghost:
 </tr>
 </table>
 
-<h2 align="center">Ratings</h2>
+<h2 align="center">Ratings :trophy: </h2>
 <p>About 500 games were submitted, our results are based on 33 participant votes.</p>
 <table>
 <tr>
